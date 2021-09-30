@@ -1,0 +1,19 @@
+.icon{
+    color: #0d5efd;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
+.card-primary{
+    background: #1b2a4e;
+    color: white !important;
+}
+.footer-link li a{
+    text-decoration: none;
+    color:black;
+}
+.footer-header{
+    border-bottom: 2px solid #000;
+    /* height: 35px; */
+}
